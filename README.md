@@ -1,0 +1,3 @@
+# Course Financial-Engineering-1 Hedging Assignment / Aalto University
+
+The purpose of this document is to examine different dynamic hedging strategies and to report the performance of these strategies on S&P100 call options. The call options data consists of 12 worksheets, and each sheet corresponds to a set of options maturing in each month of 2010. Each worksheet contains daily information on call options maturing between 65 and 1 days, with several strike prices. The task is to investigate the performance of delta hedging and delta-vega hedging and compare the results. The performance of these strategies was evaluated by hedging single options with respect to different strike prices, maturities and rehedging frequencies.
